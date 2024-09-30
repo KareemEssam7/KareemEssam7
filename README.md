@@ -38,5 +38,6 @@ Driven Software Engineer with a strong foundation in engineering principles and 
 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![VueJS](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
